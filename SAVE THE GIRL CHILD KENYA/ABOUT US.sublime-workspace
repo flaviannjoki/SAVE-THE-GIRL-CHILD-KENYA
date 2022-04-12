@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gold",
+				"goldenrod"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"u",
+				"oblique"
+			],
+			[
+				"h",
+				"lighter"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"s",
+				"cursive"
+			],
+			[
+				"purple",
+				"rebeccapurple"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"i",
+				"lighter"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"spa",
+				"word-spacing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"n",
+				"monospace"
+			],
+			[
+				"white",
+				"floralwhite"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border-op",
+				"border-top-width"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"r",
+				"alternate-reverse"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"blu",
+				"blueviolet"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"word-",
+				"word-spacing"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"purpl",
+				"mediumpurple"
+			],
+			[
+				"d",
+				"darkmagenta"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"gree",
+				"seagreen"
+			],
+			[
+				"dar",
+				"darkmagenta"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"vio",
+				"palevioletred"
+			],
+			[
+				"dark",
+				"darkgoldenrod"
+			],
+			[
+				"pin",
+				"hotpink"
+			],
+			[
+				"bl",
+				"lightblue"
+			],
+			[
+				"MAX",
+				"maxlength"
+			],
+			[
+				"yello",
+				"yellowgreen"
+			],
+			[
+				"w",
+				"brown"
+			],
+			[
+				"g",
+				"gold"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"SI",
+				"background-size"
+			],
+			[
+				"tt",
+				"tt"
+			],
+			[
+				"su",
+				"sup"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"em",
+				"em"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"v",
+				"navy"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"vi",
+				"palevioletred"
+			],
+			[
+				"a",
+				"monospace"
+			],
+			[
+				"l",
+				"lavenderblush"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"MA",
+				"maxlength"
+			],
+			[
+				"cl",
+				"bgcolor"
+			],
+			[
+				"p",
+				"pre"
+			],
+			[
+				"ca",
+				"caption"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/LEARNING MATERIALS/JAVASCRIPT/example 7.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/example 6.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/example 5 .html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/EXAMPLE 3.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/EXAMPLE 4.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/EXAMPLE 2.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/EXAMPLE.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/using document.write.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/post sum on alert box.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/alert box.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/WRITING TO HTML ELEMENTS.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/using console  log.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/hello world with java.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/event listener.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/event listener 2.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/styling html elements with javascript.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/CHANGE IMAGE VIA BUTTON.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/hide and show elements.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/CHANGE HTML CONTENT VIA BUTTON.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/click button get alert.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/TAP ME TO CHANGE COLOR.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/prompt box.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/confirm box.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/if statement.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/switch statements.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/if else statement.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/if else if else .html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/Comments at the End of a Line.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/The + Operator Used on Strings.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/comment to stop execution of code block.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/Comments to Prevent Execution.html",
+		"/F/LEARNING MATERIALS/JAVASCRIPT/COMMENTS.html",
+		"/F/SAVE THE GIRL CHILD KENYA/LOG IN.html",
+		"/F/SAVE THE GIRL CHILD KENYA/DONATE.html",
+		"/F/SAVE THE GIRL CHILD KENYA/CONTACT US.HTML",
+		"/F/SAVE THE GIRL CHILD KENYA/REGISTER.html",
+		"/F/SAVE THE GIRL CHILD KENYA/SAVE THE GIRL CHILD KENYA.css",
+		"/F/SAVE THE GIRL CHILD KENYA/MENSTRUAL PHYSIOLOGY.html",
+		"/F/SAVE THE GIRL CHILD KENYA/ABOUT US.html",
+		"/F/SAVE THE GIRL CHILD KENYA/DIV SIDE BY SIDE.html",
+		"/F/SAVE THE GIRL CHILD KENYA/FEEDBACK.html",
+		"/F/LEARNING MATERIALS/HTML/HTML TAGS ALL INCLUDED.html",
+		"/F/LEARNING MATERIALS/HTML/FORMS.html",
+		"/F/SAVE THE GIRL CHILD KENYA/TABLET WIDTH LOGIN.css",
+		"/F/SAVE THE GIRL CHILD KENYA/MOBILE-WIDTH LOG IN.css",
+		"/F/SAVE THE GIRL CHILD KENYA/ROUGHWORK.html",
+		"/F/SAVE THE GIRL CHILD KENYA/DESKTOP WIDTH LOGIN.css",
+		"/F/SAVE THE GIRL CHILD KENYA/LAPTOP WIDTH LOGIN.css",
+		"/C/Users/PROGRAMMER 101/Desktop/Removed Apps.html",
+		"/F/LEARNING MATERIALS/HTML/CSS BOX PROPERTIES/CSS BOX PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS BOX PROPERTIES/CSS BOX PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS ANIMATION PROPERTIES/CSS ANIMATION PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS ANIMATION PROPERTIES/CSS ANIMATION PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS CLASSIFICATION PROPERTIES/CSS CLASSIFICATION PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS CLASSIFICATION PROPERTIES/CSS CLASSIFICATION PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS COLOR AND BACKGROUND PROPERTIES/CSS BOX PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS COLOR AND BACKGROUND PROPERTIES/CSS BOX PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS COLOR AND BACKGROUND PROPERTIES/CSS COLOR AND BACKGROUND PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS COLOR AND BACKGROUND PROPERTIES/CSS COLOR AND BACKGROUND PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS FONT PROPERTIES/CSS FONT PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS FONT PROPERTIES/CSS FONT PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS TEXT PROPERTIES/CSS  TEXTPROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/CSS TEXT PROPERTIES/CSS TEXT PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS PROPERTIES/CSS PROPERTIES.html",
+		"/F/LEARNING MATERIALS/HTML/CSS PROPERTIES/CSS PROPERTIES.css",
+		"/F/LEARNING MATERIALS/HTML/EMBEDDED CSS.html",
+		"/F/LEARNING MATERIALS/HTML/INLINE CSS.html",
+		"/F/LEARNING MATERIALS/HTML/EXTERNAL CSS.html",
+		"/F/LEARNING MATERIALS/HTML/CSS PROPERTIES/CSS SELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/GROUPING SELECTORS/GROUP SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/GROUPING SELECTORS/GROUP SELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/PSEUDO SELECTORS/PSEUDO SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/LINK.html",
+		"/F/LEARNING MATERIALS/HTML/PSEUDO SELECTORS/PSEEUDO SELECTORS .css",
+		"/F/LEARNING MATERIALS/HTML/ID SELECTORS/PSEUDO SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/ID SELECTORS/PSEEUDO SELECTORS .css",
+		"/F/LEARNING MATERIALS/HTML/ID SELECTORS/ID SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/ID SELECTORS/ID SELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS/CSS SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS/CSSSELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/CLASS SELECTORS/CLASS SELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/CLASS SELECTORS/CLASS SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/ELEMENT SELECTORS/ELEMENT SELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/ELEMENT SELECTORS/ELEMENT SELECTORS CSS.html",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS 2/CSS SELECTORS 2.html",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS/ELEMENT SELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS/ELEMENT SELECTORS CSS.html",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS2 .css",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS 2.html",
+		"/F/LEARNING MATERIALS/HTML/CSS SELECTORS.html",
+		"/F/LEARNING MATERIALS/HTML/CSSSELECTORS.css",
+		"/F/LEARNING MATERIALS/HTML/style.css",
+		"/F/LEARNING MATERIALS/HTML/TABLE. TAG.html",
+		"/F/LEARNING MATERIALS/HTML/LOG IN.html",
+		"/F/LEARNING MATERIALS/HTML/REGISTER.html",
+		"/F/LEARNING MATERIALS/HTML/IMAGE.HTML",
+		"/F/LEARNING MATERIALS/HTML/HORIZONTAL.html",
+		"/F/LEARNING MATERIALS/HTML/ALIGNMENT.html",
+		"/F/LEARNING MATERIALS/HTML/DIV TAG.html",
+		"/F/LEARNING MATERIALS/HTML/BLOCKQUOTE.html",
+		"/F/LEARNING MATERIALS/HTML/ADDRESS TYPEWRITER TAGS.html",
+		"/F/LEARNING MATERIALS/HTML/SUPERSCRIPT SUBSCRIPT STRIKEN AND STRONG.html",
+		"/F/LEARNING MATERIALS/HTML/PREFORMATTED TEXT.html",
+		"/F/LEARNING MATERIALS/HTML/BIG EMPHASIZED SMALL.html",
+		"/F/LEARNING MATERIALS/HTML/BOLD ITALIC AND UNDERLINED.html",
+		"/F/LEARNING MATERIALS/HTML/DEFINITION LIST.html",
+		"/F/LEARNING MATERIALS/HTML/ORDERED LIST.html",
+		"/F/LEARNING MATERIALS/HTML/UNOREDEDLIST.html",
+		"/F/LEARNING MATERIALS/HTML/HEADINGS.html",
+		"/F/LEARNING MATERIALS/HTML/TABLE.HTML"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ABOUT US.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

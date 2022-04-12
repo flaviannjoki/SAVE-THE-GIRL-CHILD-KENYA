@@ -1,0 +1,336 @@
+/*THIS CSS FILE HAS BEEN USED TO FORMAT THE HTML CONTEXT(SAVE THE GIRL CHILD KENYA)*/
+body{
+	background-color:#fe5bac;/*this is color BUBBLE GUM*/
+
+}
+/*THIS CSS RULES WILL STYLE THE ELEMENT HEADER*/
+header{
+	
+	width: 51%;
+	height: 10%;
+	border-color: white;
+	border-style: solid;
+	font-size: 27.5pt;
+	margin-top: 2%;
+	margin-bottom: 3%;
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color:white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 200px;
+	
+	}	
+
+/*THIS CSS RULES WILL STYLE HTML CONTENT UNDER THE CLASS .LOGINBOX*/
+	.LOGINBOX {
+
+		font-weight: bolder;
+		width:24%;
+		height: 14%;
+		border-color:white;
+		border-style: solid;
+		font-size:16pt;
+		margin-top: 0px;
+		margin-left: 38%;
+		margin-right: 38%;
+		margin-bottom: 70px;
+		padding-top: 35px;
+		padding-left: 45px;
+		padding-right: 25px;
+		padding-bottom: 25px;
+		border-bottom-width: 10px;
+		border-top-width: 10px;
+		border-right-width: 10px;
+		border-left-width: 10px;
+		border-radius: 100px;
+
+	}
+	.head{
+		font-size: 19pt;
+
+	}
+	
+
+/*THE CSS RULES BELOW WILL STYLE THE CLASS NEWACCOUNT*/
+.NEWACCOUNT{
+	font-size: 14pt;
+	margin-left: 9%;
+}
+
+/*THE CSS RULES BELOW WILL STYLE THE ELEMENT HEADER*/
+footer{
+	width: 74%;
+	font-weight: bolder;
+	font-size: 17pt;
+	margin-top: 10px; 
+	margin-bottom: 80px;
+	margin-left: 200px;
+	margin-right: 250px;
+	border-color: white;
+	border-style: solid;
+	border-bottom-width: 5px;
+	border-right-width: 5px;
+	border-top-width: 5px;
+	background-color: white;
+	border-radius: 200px;
+	padding-left: 5px;
+
+	
+}
+/* THE CSS RULES BELOW WILL HELP THE SCREEN SIZE KEEP CONTENT IN AN ATTRACTIVE MANNER (SMARTPHONE OR IPAD )*/
+
+
+.REGISTRATIONBOX{
+	width: 28%;
+	height: 80%;
+	font-size: 15pt;
+	font-weight: bolder;
+	border-color: white;
+	border-style:solid;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 0px;
+	margin-bottom: 60px;
+	padding-left: 50px;
+	padding-right:0px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	border-radius: 100px;
+	border-bottom-width: 7px;
+	border-top-width: 7px;
+	border-right-width: 7px;
+	border-left-width: 7px;
+}
+.navigation {
+	font-weight: bolder;
+	font-size: 16pt;
+	margin-left: 42%;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	
+}
+.navigation a{
+	padding-left: 12px;
+	padding-right: 12px;
+	border-spacing: 12px;
+
+}
+.navigation a:hover {
+	background-color: ghostwhite;
+
+}
+.navigation a:active {
+	background-color:mediumpurple;
+}
+.ABOUTUS{
+	font-size: 20pt;
+	margin-bottom: 4px;
+	margin-top: 4px;
+
+}
+.content{
+	font-size:16px;
+	font-family: cursive;
+	width: 90%;
+	height: 700px; 
+	border-style: solid;
+	border-color: whitesmoke;
+	font-weight: lighter;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-left: 20px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border-bottom-width: 10px;
+	border-top-width: 10px;
+	border-right-width: 10px;
+	border-left-width:10px;
+}
+.donation{
+	border-style: solid;
+	width: 54%;
+	margin-left: 23%;
+	margin-right: 23%;
+	background-color: whitesmoke;
+	font-size: 13.5pt;
+	border-radius: 70px;
+	padding-left: 5px;
+
+}
+
+.FEEDBACK{
+	width: 90%;
+	height: 350px;
+	border-style: solid;
+	border-color: black;
+	font-size: 13pt;
+	font-weight: bolder;
+	margin-right: 5%;
+	margin-left: 2%;
+	margin-top: 10px;
+	padding: 20px;
+	border-radius: 60px;
+	border-width: 5px;
+
+}
+.TEXTAREA{
+	margin-left: %;
+	margin-right: 5%;
+	margin-top: 3%;
+	
+}
+.CONTACTUS{
+	width: 90%;
+	height: 350px;	
+	border-style: solid;
+	border-color: black;
+	font-size: 13pt;
+	margin-right: 5%;
+	margin-left: 2%;
+	font-weight: bolder;
+	margin-top: 10px;
+	padding-top: 20px;
+	border-radius: 60px;
+	padding: 20px;
+	border-width: 5px;
+}
+.CALL{
+	border-style: solid;
+	border-color: white;
+	background-color: lightseagreen;
+	width: 69%;
+	height: 8%;
+	font-size: 15pt;
+	border-radius: 70px;
+	padding: 7px;
+	margin-left: 10%;
+
+
+}
+
+.EMAIL{
+border-style: solid;
+	border-color: white;
+	background-color:lightseagreen;
+	width: 98%;
+	height: 8%;
+	font-size: 15pt;
+	border-radius: 70px;
+	padding: 7px;
+	margin-left: 5%%;
+}
+.DONATE{
+	width: 72%;
+	height: 620px;
+	border-style: solid;
+	border-color: whitesmoke;
+	border-radius:60px ;
+	margin-left: 16%;
+	padding-top: 20px;
+	margin-right: 15%;
+	font-size: 14pt;
+	font-weight: bolder;
+	padding-left: 30px;
+	padding-right: 0px;
+	margin-top: 20px;
+	border-width: 10px;
+}
+.donate{
+	font-size:18pt; 
+	margin-bottom:2px;
+	margin-top: 2px;
+	border-type: solid;
+	border-color: white;
+	background-color: whitesmoke;
+	width: 53%;
+	height: 5%;
+	border-radius: 70px;
+	padding: 15px;
+}
+
+.PAYPAL{
+	width: 65%;
+	height: 6%;
+	border-style: double;
+	border-color: black;
+	border-radius: 70px;
+	font-size: 20pt;
+	font-weight: bolder;
+	padding-left: 30px;
+	padding-bottom: 1px;
+	padding-top: 2px;
+	background-color: lightseagreen;
+}
+.MPESA{
+	width: 28%;
+	height: 6%;
+	border-style: double;
+	border-color: black;
+	border-radius: 70px;
+	font-size: 20pt;
+	font-weight: bolder;
+	padding-left: 30px;
+	padding-bottom: 1px;
+	padding-top: 2px;
+		background-color: lightseagreen;
+
+}
+.block1{
+	height: 500px;
+	width: 40%;
+	border-color: #fe5bac;
+	border-style: solid;
+	margin-left: 8%;
+	margin-right: 2%;
+	float: left;
+
+}
+.block2{
+	height: 500px;
+	width: 40%;
+	border-color: #fe5bac;
+	border-style: solid;
+	margin-left: 1%;
+	margin-right: 5%;
+	float: left;
+}
+.footer{
+	float: left;
+	width: 78%;
+	font-weight: bolder;
+	font-size: 18pt;
+	margin-top: 10px; 
+	margin-bottom: 80px;
+	margin-left: 200px;
+	margin-right: 250px;
+	border-color: white;
+	border-style: solid;
+	border-bottom-width: 5px;
+	border-right-width: 5px;
+	border-top-width: 5px;
+	background-color: white;
+	border-radius: 200px;
+	padding-left: 5px;
+}
+h2{
+	background-color: white;
+	border-radius: 40px;
+	padding: 5px;
+	margin: 10px;
+	height: 25px;
+}
+.menstrual{
+	width: 90%;
+	margin: 5%;
+	padding: 20px;
+	font size: 14pt;
+	height: 1950px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 80px;
+	margin-left: 40px;
+	border-width: 20px;
+}
